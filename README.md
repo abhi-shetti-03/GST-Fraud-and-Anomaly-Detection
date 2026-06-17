@@ -99,6 +99,15 @@ Synthetic GST Dataset generated using Python and Faker.
 
 ---
 
+#Architecture Diagram
+
+## Architecture Diagram
+
+![Architecture](Architecture/Diagram.png)
+
+
+---
+
 # Lakehouse Architecture
 
 ## Bronze Layer
@@ -282,6 +291,10 @@ KPIs:
 - Anomaly Rate
 - High Risk Vendors
 
+#### Dashboard Preview
+
+![Dashboard](dashboard/PAGE1.png)
+
 ### Page 2: Vendor Risk Analysis
 
 Visuals:
@@ -289,6 +302,11 @@ Visuals:
 - Risk Tier Distribution
 - Top Risk Vendors
 - Vendor Compliance Analysis
+
+#### Dashboard Preview
+
+![Dashboard](dashboard/PAGE2.png)
+
 
 ### Page 3: ML Model Comparison
 
@@ -299,6 +317,11 @@ Visuals:
 - Confusion Matrix
 - Feature Importance
 
+#### Dashboard Preview
+
+![Dashboard](dashboard/PAGE3.png)
+
+
 ### Page 4: PO Drilldown & AI Insights
 
 Visuals:
@@ -308,6 +331,10 @@ Visuals:
 - ML Predictions
 - AI Risk Level
 - AI Reasoning
+
+#### Dashboard Preview
+
+![Dashboard](dashboard/PAGE3.png)
 
 ---
 
