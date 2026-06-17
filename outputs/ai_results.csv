@@ -1,0 +1,51 @@
+po_id,risk_level,anomaly_types_detected,reasoning,recommended_action,confidence_score
+PO0048355,High,['GST Risk'],"Rule Score is below 70, indicating suspicious activity.",Further investigation required.,0.8
+PO0023097,High,['GST Risk'],"Rule Score below threshold (70) detected, indicating potential GST fraud.",Review vendor V00033's past transactions and audit PO0023097 manually.,0.8
+PO0000729,High,['GST Risk'],"Rule score below threshold (60) indicating suspicious activity, Anomaly Rate above 0.5, indicating high risk.",Manual review required for further investigation.,0.8
+PO0029449,High,['GST Risk'],"Rule score below threshold (60.0) indicating suspicious activity, and no compliance or anomaly rate data available.",Further investigation required to assess filing compliance and anomaly rates.,0.80
+PO0019961,High,['GST Risk'],"Rule Score below threshold (60.0 < 70) and Severity is High, indicating potential GST fraud.",Manual audit required to investigate further.,0.8
+PO0017642,High,['GST Risk'],Rule score below threshold (60) and severity is high indicating suspicious activity.,Verify vendor information and investigate transactions manually.,0.8
+PO0011770,High,['GST Risk'],"Rule score below threshold, filing compliance rate not available, but critical risk tier is None which suggests no additional risk. Anomaly Rate also not available.",Review vendor and PO details for any discrepancies.,0.8
+PO0008546,High,['GST Risk'],"Rule Score of 60 is below 70, indicating suspicious activity.",Manual review required to investigate further.,0.8
+PO0044863,High,['GST Risk'],"Rule Score is below threshold and Filing Compliance Rate is not available, indicating potential tax evasion.",Conduct thorough review and audit of vendor V00005.,0.8
+PO0032174,High,"['Filing Compliance Risk', 'GST Anomaly']",Low filing compliance rate (below 0.5) and high anomaly rate (above 0.5) detected.,Manual audit required.,0.6
+PO0026128,High,['GST Risk'],Rule Score below threshold (60.0) indicating potential GST fraud.,Manual review and verification required to assess accuracy of PO data.,0.8
+PO0046607,High,['GST Risk'],Rule Score below threshold of 70 (60.0) and Filing Compliance Rate is unknown.,Further investigation required due to high rule score and unknown filing compliance rate.,0.8
+PO0016338,High,['GST Risk'],Rule Score of 60 is below threshold (70) indicating suspicious activity.,Further investigation required to confirm GST fraud risk.,0.80
+PO0013543,High,['Rule Score'],"Rule score below threshold, indicating potential GST fraud.",Review vendor's compliance and rule adherence.,0.6
+PO0038034,High,"['Filing Compliance Risk', 'Anomaly Rate High']",Filing compliance rate below threshold (less than 0.5) and high anomaly rate detected.,Manual audit required.,60.0
+PO0020473,High,['GST Risk'],"Rule Score below threshold (60) indicating suspicious activity, which elevates risk level.",Review vendor V00005's GST filing history and verify PO0020473 details.,0.8
+PO0002889,High,"['Rule Score Anomaly', 'Filing Compliance Risk']","Rule score below threshold (60) and filing compliance rate is unknown, indicating potential fraud.",Manual review required to assess vendor's GST compliance.,0.8
+PO0018315,High,['GST Risk'],"Rule Score below threshold (60 < 70) indicating suspicious activity, no specific risk tier or anomaly rate mentioned but filing compliance rate is not provided.",Request additional information from vendor.,0.75
+PO0046014,High,['GST Risk'],Rule Score below threshold (60.0 < 70) indicates suspicious activity.,Further investigation required to determine actual risk.,0.8
+PO0015084,High,['GST Risk'],"Rule Score below threshold (70) indicating suspicious activity, Filing Compliance Rate is not available but Anomaly Rate is None which indicates a high risk.",Investigate and validate PO data with vendor V00005,0.8
+PO0004238,High,['GST Risk'],Low filing compliance rate (None) and high rule score (60.0) below threshold (70),Manual audit required.,0.91
+PO0035970,High,['GST Risk'],"Rule Score is below 70, indicating suspicious activity.",Manual review required to investigate potential GST fraud.,0.60
+PO0034643,High,['GST Risk'],Rule Score below threshold (60.0 < 70) indicating suspicious activity.,Manual review required to verify vendor's compliance and investigate potential anomalies.,0.8
+PO0003862,High,['GST Risk'],"Rule Score below threshold (60.0) and Severity is High, indicating potential GST fraud.",Manual review required to verify vendor's legitimacy and ensure accurate tax compliance.,0.85
+PO0032073,High,['GST Risk'],"Rule Score is below 70, indicating suspicious activity, Anomaly Rate is above 0.5 indicating high risk.",Manual audit required.,0.91
+PO0037757,High,['GST Risk'],"Rule Score below threshold, indicating potential GST fraud activity.",Investigate vendor V00005 for potential GST evasion.,0.6
+PO0029098,High,['GST Risk'],Rule score below threshold (60.0 < 70) indicating potential GST fraud.,Manual review of vendor V00033 and PO ID PO0029098 required.,0.80
+PO0012452,High,['GST Risk'],"Rule Score of 60 is below 70, indicating suspicious activity.",Manual review required to assess actual risk.,0.8
+PO0045649,High,['GST Risk'],"Rule score below threshold (60.0) indicating potential fraud, no specific reason for high risk.",Further investigation required.,0.75
+PO0047994,High,['GST Risk'],"Rule score of 60.0 indicates suspicious activity, and no Anomaly Rate is present which could indicate a high risk.",Manual review required to verify vendor's authenticity.,0.80
+PO0009249,High,['GST Rule Violation'],Rule score below 70 indicates suspicious activity.,Review vendor V00005's records for potential discrepancies.,0.8
+PO0020533,High,['GST Risk'],Rule Score below threshold (60) indicates suspicious activity.,Review vendor's history and perform additional verification before processing the order.,0.75
+PO0019343,High,['GST Risk'],"Rule Score is below threshold, indicating potential GST fraud.",Manual audit required to investigate PO0019343.,0.60
+PO0015280,High,['GST Risk'],"Rule Score is below threshold of 70, indicating suspicious activity.",Manual review required to verify vendor authenticity and rule score accuracy.,0.8
+PO0034928,High,['GST Risk'],"Rule Score below threshold (60) indicating suspicious activity, Filing Compliance Rate is not available which is a risk indicator",Further investigation required.,0.8
+PO0032679,High,['GST Risk'],Rule score of 60 is below threshold (70) indicating suspicious activity.,Further investigation required.,0.8
+PO0047990,High,['GST Risk'],Rule Score below threshold (60.0 < 70) indicates suspicious activity.,Review vendor's documentation for accuracy.,0.8
+PO0030871,High,['GST Risk'],Rule score below threshold (60) detected.,Manual review required to assess vendor's legitimacy.,0.8
+PO0025641,High,['GST Risk'],"Rule Score below threshold (60) indicates suspicious activity, with a severity of High.",Review vendor credentials and manual audit required.,0.80
+PO0024178,High,['GST Risk'],"Rule Score below threshold (60) indicates suspicious activity, and no Anomaly Rate or Filing Compliance information is available, which could indicate a high risk.",Investigation required.,0.8
+PO0003723,High,['GST Risk'],"Rule score below threshold (60.0) indicating suspicious activity, and no filing compliance or anomaly rate information available.",Manual review required.,0.8
+PO0048700,High,['GST Risk'],Rule Score below threshold (60) indicating potential GST evasion,Manual review of purchase order required,0.80
+PO0013448,High,['GST Risk'],"Rule Score below threshold (70) indicates suspicious activity, and no specific risk tier assigned.",Review vendor information and audit records for PO0013448.,0.80
+PO0034848,High,['GST Risk'],"Rule Score is below 70, indicating suspicious activity. No filing compliance or anomaly rate is provided, but the Rule Score alone suggests high risk.",Manual audit required.,0.80
+PO0049375,High,['GST Risk'],"Rule score is below 70, indicating suspicious activity.",Manual review of vendor V00005 required.,0.6
+PO0002724,High,['GST Risk'],"Rule score is below 70, which indicates suspicious activity.",Further investigation required.,0.6
+PO0026055,High,['GST Risk'],"Rule Score is below 70, indicating suspicious activity. Critical Risk Tier is also None, which increases fraud probability.",Manual audit required.,0.8
+PO0018426,High,['Rule Score below threshold'],"Rule score of 60.0 is below the threshold of 70.0, indicating a suspicious transaction.",Further review required to assess the legitimacy of the transaction.,0.8
+PO0026073,High,"['Rule Score', 'Anomaly Rate']","Rule score below threshold (60.0) indicates suspicious activity, and anomaly rate is not specified but Rule Score below 70 is enough to flag as High risk.",Manual review required for further investigation.,0.8
+PO0027526,High,['GST Risk'],"Rule score is below 70, which indicates suspicious activity.",Review vendor (V00033) credentials and purchase history for potential GST discrepancies.,0.60
