@@ -334,7 +334,7 @@ Visuals:
 
 #### Dashboard Preview
 
-![Dashboard](dashboard/PAGE3.png)
+![Dashboard](dashboard/PAGE4.png)
 
 ---
 
